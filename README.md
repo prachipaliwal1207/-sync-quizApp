@@ -1,5 +1,5 @@
 Quiz App  📝 <br>   <br>
-Welcome to the Quiz App project! This project is designed to provide users with an interactive quiz experience where they can test their knowledge on various topics.  <br>
+Welcome to the Quiz App project! This project is designed to provide users with an interactive quiz experience where they can test their knowledge on various topics.  <br>  <br>
 
 Project Files  📁  <br>
 * quizApp.html: HTML file containing the structure of the quiz app.
@@ -22,6 +22,6 @@ Customization  🎨  <br>
 * Customize the quiz questions and topics by editing the JavaScript file (quizApp.js).
 * Adjust the styling of the quiz app interface by modifying the CSS file (quizApp.css).  <br>
 
-About the Author  👩‍💻  <br> 
+About the Author  👩‍💻  <br>   <br>
 This quiz app project was created by [Your Name]. Feel free to reach out with any questions or feedback!
 
