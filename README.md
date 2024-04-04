@@ -23,5 +23,5 @@ Customization  🎨  <br>
 * Adjust the styling of the quiz app interface by modifying the CSS file (quizApp.css).  <br>
 
 About the Author  👩‍💻  <br>   <br>
-This quiz app project was created by [Your Name]. Feel free to reach out with any questions or feedback!
+This quiz app project was created by Prachi. Feel free to reach out with any questions or feedback!
 
